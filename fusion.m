@@ -3,6 +3,8 @@ function fusion
 %  
 % http://www.slideshare.net/antoniomorancardenas/data-fusion-with-kalman-filtering
 %
+% % See http://home.wlu.edu/~levys/kalman_tutorial for background
+%
 % Copyright (C) 2014 Simon D. Levy
 %
 % This code is free software: you can redistribute it and/or modify
