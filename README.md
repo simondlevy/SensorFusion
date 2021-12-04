@@ -7,4 +7,4 @@ To run, just launch Matlab, change your directory to where you put the repositor
 
   >> fusion
 
-See http://home.wlu.edu/~levys/kalman_tutorial for a complete discussion
+See this [tutorial](https://simondlevy.academic.wlu.edu/kalman-tutorial/) for a complete discussion
